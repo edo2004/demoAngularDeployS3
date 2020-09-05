@@ -1,3 +1,5 @@
+![Deploy to AWS S3](https://github.com/indrajitbnikam/sample-angular-app/workflows/Deploy%20to%20AWS%20S3/badge.svg)
+
 # SampleAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
